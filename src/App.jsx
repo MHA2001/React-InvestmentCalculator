@@ -1,3 +1,4 @@
+import UserInput from './components/UserInputs';
 export default function App() {
-	return <div>Hi</div>;
+	return <UserInput />;
 }
