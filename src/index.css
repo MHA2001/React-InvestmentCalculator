@@ -67,3 +67,26 @@ a {
 		scroll-padding-top: 3rem;
 	}
 }
+
+body {
+	margin: 0;
+	font-family: 'Quicksand', sans-serif;
+	background: radial-gradient(#303b37, #1a1f1d);
+	color: #e1eeeb;
+	min-height: 100vh;
+	text-align: center;
+}
+
+header {
+	margin-block: 3rem;
+}
+
+header img {
+	width: 8rem;
+	height: 8rem;
+	object-fit: contain;
+}
+
+header h1 {
+	margin-top: 1.5rem;
+}
